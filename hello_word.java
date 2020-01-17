@@ -1,4 +1,7 @@
 package com.mkyong.common;
+/**
+*testing purpose
+*/
 
 /**
  * Spring bean
