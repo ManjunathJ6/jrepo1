@@ -10,6 +10,7 @@
 	<name>SpringExamples</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
+	<!-- demo -->
 
 		<!-- Spring framework -->
 		<dependency>
